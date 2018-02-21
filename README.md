@@ -13,3 +13,16 @@
 
 ![alt text](images/create_repo.png "Create repository")
 
+
+4. Download Git from this link https://git-scm.com/downloads. Choose the proper link based on the operating system you are using.
+
+*** Go to Command Line Prompt (CMD) and run the following command: **git** 
+
+The **git** command should be recognized by the system.
+
+![alt text](images/git_command.png "Create repository")
+
+
+
+
+
