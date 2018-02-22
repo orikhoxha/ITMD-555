@@ -27,3 +27,11 @@ The **git** command should be recognized by the system.
 ![alt text](images/git_command.png "Create repository")
 
 
+6. Clone the repository from github to the local filesystem using the following command.
+
+** git clone https://github.com/orikhoxha/itmd-455.git **    Please replace the link with the repository you have created.
+
+
+
+
+
