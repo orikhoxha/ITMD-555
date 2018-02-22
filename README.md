@@ -40,6 +40,11 @@ The **git** command should be recognized by the system.
 
 
 
+8. Create a new project in Android Studio and save within the directory "Week-0X"
+
+![alt text](images/android_project_location.png "Android Project Location")
+
+
 
 
 
