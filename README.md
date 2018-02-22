@@ -40,9 +40,21 @@ The **git** command should be recognized by the system.
 
 
 
-8. Create a new project in Android Studio and save within the directory "Week-0X"
+8. Create a new project in Android Studio and save within the directory "Week-0X" created from the step 7.	
 
 ![alt text](images/android_project_location.png "Android Project Location")
+
+
+9. After completing your application, make the screenshots **only from the application running, not the Java or xml files**
+
+10. Create a folder with name **images** within the **Week-0X** directory
+
+11. Place the screenshots in **images** folder.
+
+![alt text](images/images_folder_project.png "Images folder project")
+
+
+
 
 
 
