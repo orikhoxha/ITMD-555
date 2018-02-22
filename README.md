@@ -31,7 +31,11 @@ The **git** command should be recognized by the system.
 
 **git clone https://github.com/orikhoxha/itmd-455.git** 
 
-![alt text](images/git_clone.png "Clone the repository")   
+![alt text](images/git_clone.png "Clone the repository")
+
+7. Create a new project in Android Studio , use the name convention "Week-05", and choose the folder directory same place as the git directory cloned from github.
+
+ 
 
 
 
