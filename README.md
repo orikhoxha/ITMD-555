@@ -36,7 +36,7 @@ The **git** command should be recognized by the system.
 
 7. Create a new folder within the repository cloned from github. Name it "Week-0X" , replace X with the current week assignment you are working on.
 
-![alt text](images/android_project_repository.png "Android Project Repository")
+![alt text](images/android_project_directory.png "Android Project Repository")
 
 
 
