@@ -51,7 +51,10 @@ The **git** command should be recognized by the system.
 
 11. Place the screenshots in **images** folder.
 
-![alt text](images/images_folder_project.png "Images folder project")
+![alt text](images/images_folder_app.png "Images folder project")
+
+
+
 
 
 
