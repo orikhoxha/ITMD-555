@@ -29,7 +29,9 @@ The **git** command should be recognized by the system.
 
 6. Clone the repository from github to the local filesystem using the following command. Please replace the repository link your own repository.
 
-**git clone https://github.com/orikhoxha/itmd-455.git**    
+**git clone https://github.com/orikhoxha/itmd-455.git** 
+
+![alt text](images/git_clone.png "Clone the repository")   
 
 
 
