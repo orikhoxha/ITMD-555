@@ -1,4 +1,4 @@
-## Setting up the github account
+## Setting up & pushing Android Project to a Github repository
 
 
 1. Create a Github account, set a username and password.
