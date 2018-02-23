@@ -61,7 +61,7 @@ The **git** command should be recognized by the system.
 
 13. Read this cheatsheet on how to reference images from READMD.md file https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-Example ```![alt text](images/readme_file.png "README file create")```
+Example ```![alt text](images/readme_file.png "README file create")```       The example references an image inside images folder
 
 
 
