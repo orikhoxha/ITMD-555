@@ -54,6 +54,11 @@ The **git** command should be recognized by the system.
 ![alt text](images/images_folder_app.png "Images folder project")
 
 
+12. Create an README.md file within folder "Week-0X" (README.md)
+
+![alt text](images/readme_file.png "README file create")
+
+
 
 
 
