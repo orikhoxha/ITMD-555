@@ -54,9 +54,16 @@ The **git** command should be recognized by the system.
 ![alt text](images/images_folder_app.png "Images folder project")
 
 
-12. Create an README.md file within folder "Week-0X" (README.md)
+12. Create a README.md file within folder "Week-0X"
 
 ![alt text](images/readme_file.png "README file create")
+
+
+13. Read this cheatsheet on how to reference images from READMD.md file https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Example ```![alt text](images/readme_file.png "README file create")```
+
+
 
 
 
