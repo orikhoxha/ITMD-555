@@ -75,6 +75,13 @@ Example ```![alt text](images/readme_file.png "README file create")```       The
 
 
 
+As an example, go to my repository within Week-05 https://github.com/orikhoxha/itmd-555/tree/master/Week-05 so you can see how the project folders and files are structured.
+
+
+## Thank you for your attention ##
+
+
+
 
 
 
