@@ -69,9 +69,9 @@ Example ```![alt text](images/readme_file.png "README file create")```       The
 ![alt text](images/git_commands.png "git commands")
 
 
-```git add . ```   This command adds all the files to the Git local system
-```git commit -m "Committing" ``` This command commits the added files
-```git push ```  This command pushes the changes made in the local Git repository to the Github
+15. ```git add . ```   This command adds all the files to the Git local system
+16. ```git commit -m "Committing" ``` This command commits the added files
+17. ```git push ```  This command pushes the changes made in the local Git repository to the Github
 
 
 
